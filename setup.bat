@@ -1,0 +1,1 @@
+powershell -noprofile .\cuda.ps1 -verb RunAs
