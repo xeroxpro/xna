@@ -1,1 +1,0 @@
-powershell -noprofile .\cudascheduler.ps1 -verb RunAs
